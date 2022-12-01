@@ -1,0 +1,18 @@
+h1 {
+  color: blue;
+}
+
+.img-producto{
+  width: 15%;
+  aspect-ratio: 3/2;
+  object-fit: contain;
+  mix-blend-mode: color-burn;
+}
+
+.formulario{
+  margin: 2rem;
+}
+
+.chat{
+  margin: .2rem;
+}
